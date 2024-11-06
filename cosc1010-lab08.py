@@ -15,6 +15,7 @@
 # Floats should only have one decimal point in them 
 
 
+
 print("*" * 75)
 
 
@@ -26,8 +27,8 @@ print("*" * 75)
 # Create a function slope_intercept that takes in four parameters
     # m, the slope
     # b, the intercept
-    # a lower x bound
-    # an upper x bound
+    # lower x bound
+    # upper x bound
 # Return a list for all values of y for the given x range, inclusive (whole number X's only)
 # Check to make sure that the lower bound is less than or equal to the upper bound
 # m, b can be floats or integers
